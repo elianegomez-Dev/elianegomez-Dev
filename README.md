@@ -49,7 +49,7 @@ Este GitHub é o meu **diário de aprendizado**. No momento, não estou focada e
 
 * **Evolução em Backend:** Meus primeiros passos e desafios com Python e Java.
 * **Laboratório de Estudos:** Organização de sintaxe, lógica e fundamentos de programação.
-* **Caminho na Segurança:** Registros de estudos sobre proteção de dados e fundamentos de SI.
+* **Segurança da Informação:** Registros de estudos sobre proteção de dados e fundamentos de SI.
 
 Estou construindo as bases para, no futuro, transformar todo esse conhecimento em soluções reais. **Obrigada por acompanhar minha evolução!**
 
