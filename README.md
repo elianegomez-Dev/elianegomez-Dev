@@ -41,13 +41,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focada em construir
 
 ---
 
-### 📊 Desempenho do Servidor
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elianegomez-Dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianegomez-Dev&layout=compact&theme=radical&hide_border=false" />
-</div>
+## 🔍 O que você encontrará por aqui?
 
----
+> **Status:** 🚧 *Fase de estudos e estruturação de base tecnológica.*
+
+Este GitHub é o meu **diário de aprendizado**. No momento, não estou focada em postar projetos finais, mas sim em documentar o meu progresso e organizar as ferramentas que estou dominando. Aqui você verá:
+
+* **Evolução em Backend:** Meus primeiros passos e desafios com Python e Java.
+* **Laboratório de Estudos:** Organização de sintaxe, lógica e fundamentos de programação.
+* **Caminho na Segurança:** Registros de estudos sobre proteção de dados e fundamentos de SI.
+
+Estou construindo as bases para, no futuro, transformar todo esse conhecimento em soluções reais. **Obrigada por acompanhar minha evolução!**
+
 ---
 ### ⚡ Conecte-se Comigo
 <div align="center">
