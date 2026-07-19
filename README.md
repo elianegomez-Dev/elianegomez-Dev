@@ -66,7 +66,7 @@ Estou construindo as bases para, no futuro, transformar todo esse conhecimento e
 
   <br><br>
 
- <di<div align="center">
+ <div align="center">
 
 <h3><i>"Que a tua vida não seja uma vida estéril. Sê útil. Deixa rasto."</i></h3>
 
