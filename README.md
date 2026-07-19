@@ -66,16 +66,13 @@ Estou construindo as bases para, no futuro, transformar todo esse conhecimento e
 
   <br><br>
 
- <div align="center">
+ <di<div align="center">
 
-<i>
+<h3><i>"Que a tua vida não seja uma vida estéril. Sê útil. Deixa rasto."</i></h3>
 
-"Sê útil. Deixa rasto."
-</i>
+<p><b>— São Josemaria Escrivá</b></p>
 
-<br><br>
-
-<b>— São Josemaria Escrivá</b>
+</div>
 
 </div>
 </div>
