@@ -66,5 +66,16 @@ Estou construindo as bases para, no futuro, transformar todo esse conhecimento e
 
   <br><br>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&pause=3500&color=9D4EDD&center=true&vCenter=true&width=1200&lines=Que+a+tua+vida+não+seja+uma+vida+estéril.;Sê+útil.;Deixa+rasto.;—+São+Josemaria+Escrivá" alt="Typing SVG" />
+ <div align="center">
+
+<i>
+
+"Sê útil. Deixa rasto."
+</i>
+
+<br><br>
+
+<b>— São Josemaria Escrivá</b>
+
+</div>
 </div>
