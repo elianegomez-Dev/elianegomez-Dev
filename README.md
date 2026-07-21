@@ -79,8 +79,8 @@ Este GitHub é o meu **diário de evolução tecnológica**. Aqui documentando m
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/elianegomez-Dev&layout=compact&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianegomez-Dev&layout=compact&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elianegomez-Dev&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 </div>
