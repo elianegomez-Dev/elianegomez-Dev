@@ -76,13 +76,6 @@ Este GitHub é o meu **diário de evolução tecnológica**. Aqui documentando m
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elianegomez-Dev&theme=dark&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elianegomez-Dev&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 </div>
  <div align="center">
