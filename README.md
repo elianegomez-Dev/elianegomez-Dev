@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/14b4472a-a6ca-4d6a-8d11-016f8b5dffa4" width="100%" max-width="900" style="object-fit: cover; border-radius: 15px;" alt="Banner Dev Backend">
+  <img src="https://github.com/user-attachments/assets/14b4472a-a6ca-4d6a-8d11-016f8b5dffa4" width="100%" max-width="700" style="object-fit: cover; border-radius: 15px;" alt="Banner Dev Backend">
 
   <br><br>
 
