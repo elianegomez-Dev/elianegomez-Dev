@@ -1,90 +1,112 @@
-<div align="center">
+ <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/14b4472a-a6ca-4d6a-8d11-016f8b5dffa4" width="100%" max-width="500" style="object-fit: cover; border-radius: 15px;" alt="Banner Dev Backend">
+  <img src="https://github.com/user-attachments/assets/14b4472a-a6ca-4d6a-8d11-016f8b5dffa4" width="100%" alt="Banner Dev Backend">
 
-  <br><br>
+  <br>
 
-  <h1>Welcome to Eliane's GitHub 🛠️</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+Eliane's+GitHub!;Backend+Developer+%7C+Full+Stack+Student;Python+%7C+Java+%7C+SQL;Building+the+future+with+code!" alt="Typing SVG">
 
-  <p><b>Desenvolvedora Backend & Aspirante Full Stack | Apaixonada por Arquitetura & Segurança</b></p>
+  <p><b>Desenvolvedora Backend & Aspirante Full Stack</b></p>
+  <p> apaixonada por Arquitetura de Software, Banco de Dados e Segurança da Informação.</p>
 
-  <p>
-    <a href="mailto:elianegomeztech@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/elianegomez-Dev" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <a href="mailto:elianegomeztech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/elianegomez-Dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
 </div>
 
 ---
 
-<div align="center">
+## 👩‍💻 Sobre Mim
 
-## ✍️ Sobre Mim
+Olá! Sou **Eliane Gomes**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e aluna do bootcamp **Full Stack da +praTi**.
 
-Olá! Sou a **Eliane Gomes**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e aluna do bootcamp **Fullstack da +praTi**. 
+Estou construindo minha trajetória no desenvolvimento de software, com foco especial em **Backend**, enquanto amplio meus conhecimentos no universo Full Stack.
 
-Estou construindo uma base sólida no **Backend** enquanto expando meus horizontes para o ecossistema **Fullstack**, sempre mantendo a **Segurança da Informação** como pilar fundamental.
-
-**Desenvolvedora Backend & Fullstack Student** **Python / Java / Web** **Segurança da Informação & Proteção de Dados** **Foco em Aprendizado Contínuo e Arquiteturas Robustas** </div>
-
-<br>
+Tenho interesse em:
+- 🐍 Desenvolvimento Backend com Python e Java.
+- 🗄️ Modelagem, gerenciamento e manipulação de bancos de dados.
+- 🌐 Desenvolvimento Web e tecnologias Full Stack.
+- 🛡️ Segurança da Informação e proteção de dados.
+- 🏗️ Arquitetura de software e construção de soluções robustas.
 
 > 💡 *"O Front-end é a interface, o Backend é o motor e a Segurança é a armadura."*
 
 ---
 
-## 🖥️ Tecnologias & Ferramentas
+## ⚡ Tecnologias & Ferramentas
 
-### 🚀 Linguagens & Core Backend
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Segurança_da_Informação-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+### 💻 Linguagens & Backend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python e Java"/>
 </div>
 
-### 🌐 Frontend & Web (Formação Fullstack)
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+### 🌐 Frontend & Desenvolvimento Web
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML CSS JavaScript"/>
 </div>
 
-### 🛠️ Ferramentas & Workspace
-<div align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+### 🗄️ Banco de Dados
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL e PostgreSQL"/>
+</div>
+
+### 🛠️ Ferramentas & Ambiente de Desenvolvimento
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="VS Code Git e GitHub"/>
+</div>
+
+### 🛡️ Segurança da Informação
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Information_Security-000000?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Information Security"/>
 </div>
 
 ---
 
 ## 🔍 O que você encontrará por aqui?
 
-> **Status Atual:** 🎓 *Análise e Desenvolvimento de Sistemas + Bootcamp Fullstack (+praTi)*
+🎓 **Atualmente:** Análise e Desenvolvimento de Sistemas + Bootcamp Full Stack (+praTi).
 
-Este GitHub é o meu **diário de evolução tecnológica**. Aqui documentando meu progresso diário, exercícios e projetos práticos:
+Este GitHub é meu espaço de aprendizado, prática e evolução na tecnologia.
 
-* 🐍 **Backend:** Automações, APIs e lógica com Python e Java.
-* 🌐 **Fullstack:** Desenvolvimento Web moderno através do curso **+praTi**.
-* 🛡️ **Segurança:** Estudos aplicados sobre proteção de dados e boas práticas.
+Aqui você encontrará:
+
+- 🐍 **Backend:** Exercícios, projetos, lógica de programação e desenvolvimento com Python e Java.
+- 🌐 **Frontend:** Projetos e práticas com HTML, CSS e JavaScript.
+- 🗄️ **Banco de Dados:** Estudos e projetos utilizando MySQL e PostgreSQL.
+- 🛡️ **Segurança:** Estudos sobre proteção de dados e boas práticas de desenvolvimento.
+- 🚀 **Full Stack:** Minha evolução na construção de aplicações completas.
+
+---
+
+## 🌱 Minha jornada na tecnologia
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning+every+day...;Coding+with+purpose...;Turning+ideas+into+solutions!" alt="Learning animation"/>
+
+  **Aprender. Praticar. Construir. Evoluir.**
+
+</div>
 
 ---
 
 <div align="center">
 
+  <h3><i>"Que a tua vida não seja uma vida estéril. Sê útil. Deixa rasto."</i></h3>
 
-</div>
- <div align="center">
+  <p><b>— São Josemaria Escrivá</b></p>
 
-<h3><i>"Que a tua vida não seja uma vida estéril. Sê útil. Deixa rasto."</i></h3>
+  <br>
 
-<p><b>— São Josemaria Escrivá</b></p>
+  ![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
-
-</div>
 </div>
