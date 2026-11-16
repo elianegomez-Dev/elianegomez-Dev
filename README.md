@@ -62,12 +62,6 @@ Estou construindo uma base sólida no **Backend** enquanto expando meus horizont
 
 ---
 
-<div align="center">
-  <h2>⚡ MY TECHNOLOGIES</h2>
-  <img src="./tech-stack.svg" width="100%" alt="Tech Stack animada">
-</div>
-
-
 ## 🔍 O que você encontrará por aqui?
 
 > **Status Atual:** 🎓 *Análise e Desenvolvimento de Sistemas + Bootcamp Fullstack (+praTi)*
