@@ -1,0 +1,50 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="100%" viewBox="0 0 720 90">
+
+  <defs>
+    <clipPath id="area">
+      <rect width="720" height="90"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#area)">
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-720 0"
+        dur="18s"
+        repeatCount="indefinite"/>
+
+      <g>
+        <image x="12" y="20" width="48" height="48" href="https://cdn.simpleicons.org/python/3776AB"/>
+        <image x="84" y="20" width="48" height="48" href="https://cdn.simpleicons.org/openjdk/ED8B00"/>
+        <image x="156" y="20" width="48" height="48" href="https://cdn.simpleicons.org/html5/E34F26"/>
+        <image x="228" y="20" width="48" height="48" href="https://cdn.simpleicons.org/css3/1572B6"/>
+        <image x="300" y="20" width="48" height="48" href="https://cdn.simpleicons.org/javascript/F7DF1E"/>
+        <image x="372" y="20" width="48" height="48" href="https://cdn.simpleicons.org/mysql/4479A1"/>
+        <image x="444" y="20" width="48" height="48" href="https://cdn.simpleicons.org/postgresql/4169E1"/>
+        <image x="516" y="20" width="48" height="48" href="https://cdn.simpleicons.org/git/F05032"/>
+        <image x="588" y="20" width="48" height="48" href="https://cdn.simpleicons.org/github/FFFFFF"/>
+        <image x="660" y="20" width="48" height="48" href="https://cdn.simpleicons.org/visualstudiocode/007ACC"/>
+      </g>
+
+
+      <g transform="translate(720 0)">
+        <image x="12" y="20" width="48" height="48" href="https://cdn.simpleicons.org/python/3776AB"/>
+        <image x="84" y="20" width="48" height="48" href="https://cdn.simpleicons.org/openjdk/ED8B00"/>
+        <image x="156" y="20" width="48" height="48" href="https://cdn.simpleicons.org/html5/E34F26"/>
+        <image x="228" y="20" width="48" height="48" href="https://cdn.simpleicons.org/css3/1572B6"/>
+        <image x="300" y="20" width="48" height="48" href="https://cdn.simpleicons.org/javascript/F7DF1E"/>
+        <image x="372" y="20" width="48" height="48" href="https://cdn.simpleicons.org/mysql/4479A1"/>
+        <image x="444" y="20" width="48" height="48" href="https://cdn.simpleicons.org/postgresql/4169E1"/>
+        <image x="516" y="20" width="48" height="48" href="https://cdn.simpleicons.org/git/F05032"/>
+        <image x="588" y="20" width="48" height="48" href="https://cdn.simpleicons.org/github/FFFFFF"/>
+        <image x="660" y="20" width="48" height="48" href="https://cdn.simpleicons.org/visualstudiocode/007ACC"/>
+      </g>
+    </g>
+  </g>
+</svg>
