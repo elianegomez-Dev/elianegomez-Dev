@@ -40,22 +40,22 @@ Estou construindo uma base sólida no **Backend** enquanto expando meus horizont
 ## 🖥️ Tecnologias & Ferramentas
 
 ### 🚀 Linguagens de Programação
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 </div>
 
 ### 🌐 Frontend & Desenvolvimento Web
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 </div>
 
 ### 🗄️ Banco de Dados
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </div>
 
 ### 🛠️ Ferramentas & Workspace
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 </div>
 
