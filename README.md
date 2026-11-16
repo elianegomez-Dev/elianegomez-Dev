@@ -88,4 +88,4 @@ Este GitHub é o meu **diário de evolução tecnológica**. Aqui documentando m
 
 </div>
 </div>
-Ele tá ultimamente assim, tá? Eu fiz isso aí, tá assim, tá? E as linguagens que eu uso são essas daí também. E eu uso SQL, MySQL também eu uso, PostgreSQL, quer dizer, PostgreSQL, MySQL, que são bancos de dados, né? E bota da melhor forma possível, quero bonito, tá?
+
