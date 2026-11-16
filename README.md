@@ -71,6 +71,15 @@ Tenho interesse em:
 
 ---
 
+
+<div align="center">
+
+### ⚡ My Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,git,github,vscode&theme=dark" />
+
+</div>
+
 ## 🔍 O que você encontrará por aqui?
 
 🎓 **Atualmente:** Análise e Desenvolvimento de Sistemas + Bootcamp Full Stack (+praTi).
